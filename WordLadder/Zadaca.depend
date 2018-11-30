@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543604170 source:c:\users\barto\desktop\c++ files\zadaca\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<algorithm>
+	<set>
+	<iterator>
+	<stack>
+	<queue>
+
