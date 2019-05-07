@@ -1,4 +1,4 @@
 # Cpp-Projects
 Some problems solved in C++, mostly using OOP principles
 
-Assigments by prof M. Jurak PMF
+Assigments by prof Mladen Jurak PMF
