@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\bjelic\desktop\cpp projekti\matrix\matrix\matrix.h(45): warning C4715: 'Matrix<2,1>::operator bool': not all control paths return a value
+  Matrix.vcxproj -> C:\Users\bjelic\Desktop\CPP projekti\Matrix\Debug\Matrix.exe
+  Matrix.vcxproj -> C:\Users\bjelic\Desktop\CPP projekti\Matrix\Debug\Matrix.pdb (Full PDB)
