@@ -1,4 +1,4 @@
 # Cpp-Projects
-Some problems solved in C++, mostly using OOP principles(Croatian)
+Some tricky problems solved in C++ (Croatian)
 
 Assigments by prof Mladen Jurak PMF
